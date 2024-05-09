@@ -24,3 +24,8 @@ To get a local copy of this project up and running, follow these steps:
 
    ```bash
    git clone https://github.com/your-username/daily-news-app.git
+   cd daily-news-app
+npm install
+REACT_APP_NEWS_API_KEY=your_news_api_key_here
+npm start
+
